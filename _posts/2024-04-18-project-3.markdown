@@ -1,0 +1,12 @@
+---
+layout: default
+title: Sources
+modal-id: 1
+date: 2024-04-18
+img: connectors.png
+alt: image-alt
+# project-date: April 2024
+# client: 
+# category: Web Development
+description: Automate data extraction from the platforms and channels you advertise on. Kuara uses API and ODBC connectors to collect crucial data to measure your marketing campaigns. Stop wasting valuable time of your team by manually extracting reports.
+---

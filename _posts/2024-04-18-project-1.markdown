@@ -1,0 +1,12 @@
+---
+layout: default
+title: Insights
+modal-id: 3
+date: 2024-04-18
+img: analytics.png
+alt: image-alt
+# project-date: April 2024
+# client: 
+# category: Web Development
+description: We believe that, without a self-service interface for your analysts and marketers to interact with, data is valueless. Kuara provides a friendly analytics fornt-end for your team to interact with and extract insights from.
+---
