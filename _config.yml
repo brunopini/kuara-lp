@@ -2,7 +2,7 @@
 title: kuara
 email: kuara@pinimar.tech
 url: https://kuara.pinimar.tech
-description: "Empowering digital marketers with their ad campaign data, all the way from API connections to their ad accounts to a visual exploratory interface."
+description: "Empowering digital marketers with their ad campaign data, all the way from API connections to a visual self-service exploratory interface."
 keywords: "martech, marketing data, data, digital marketing, ads, digital ads, ad reporting"
 skills: "Finally, an end-to-end marketing data solution"
 meta_author: Bruno Pini
@@ -58,7 +58,7 @@ address:
   - line: São Paulo, Brazil
 
 # Credits content
-credits: 'Kuara is a marketing data product in early development and is owned by Pinimartec.'
+credits: 'Kuara is a marketing data product in early access and is owned by Pinimartec. Request a demo via our contact form.'
 
 # Build settings
 markdown: kramdown
