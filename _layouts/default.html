@@ -3,6 +3,10 @@
 {% include head.html %}
 
 <body id="page-top" class="index">
+  {% if site.gtm_id %}
+  {% include gtm_noscript.html %}
+  {% endif %}
+
   {% include nav.html %}
   {% include header.html %}
   {% include portfolio_grid.html %}
